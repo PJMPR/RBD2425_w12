@@ -39,19 +39,3 @@ W trakcie wykładu zostaną omówione następujące zagadnienia:
 * `$push` – dodawanie elementu do tablicy
 * `$pull` – usuwanie elementów z tablicy
 
-## 📁 Struktura repozytorium
-
-Repozytorium zawiera:
-
-* `mongo_inserts.js` – przykładowy skrypt do wstawiania danych (klienci i produkty)
-* pliki `.md` z przykładami dla poszczególnych operacji (dodawanie, aktualizacja, wyszukiwanie, usuwanie)
-
-## 🧰 Wymagania wstępne
-
-* Podstawowa znajomość MongoDB
-* Zainstalowany `mongosh` lub dostęp do MongoDB Atlas
-* Node.js (opcjonalnie, jeśli dane będą wczytywane skryptem)
-
-## 📄 Licencja
-
-Materiały dostępne na licencji MIT. Można je swobodnie wykorzystywać do nauki i dydaktyki.
